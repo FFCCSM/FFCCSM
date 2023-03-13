@@ -1,6 +1,4 @@
-### Hi there 👋, my name is Md. Sohel
-#### Working at Genex infosys ltd
-![Working at Genex infosys ltd](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Header](https://i.ibb.co/9w4rKgM/github-header-image.png)
 
 I'm Sohel from Bangladesh, and I do Web Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
